@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mikhail
+## Hi there 👋, my name is Mikhail
 
 ## I’m extremely motivated and seeking a career opportunity as a Front-end Developer that allows to apply my knowledge in practice.
 
